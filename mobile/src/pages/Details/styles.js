@@ -34,11 +34,6 @@ export default StyleSheet.create({
       color: '#737380',
   },
 
-  scrollText:{
-    height: 40,
-    maxHeight: 40
-  },
-
   contactBox: {
     padding: 24,
     borderRadius: 8,
